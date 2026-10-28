@@ -29,5 +29,7 @@ https://github.com/cc1nt/ip/blob/main/tw1.txt
 10	108.162.198.157	NRT	东京	41.95	13.53	443	地区测速
 
 103.61.139.196
+
 git config --global http.proxy http://127.0.0.1:10808
+
 git config --global https.proxy http://127.0.0.1:10808
