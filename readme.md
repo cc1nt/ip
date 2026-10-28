@@ -15,14 +15,18 @@ https://raw.githubusercontent.com/cc1nt/ip/main/tw1.txt
 
 
 # jp1
-    2026年10月28日21:16:18 日本原生运营商 60.130.209.253
+    日本原生运营商 60.130.209.253
 ![原身牛逼](jp1.png)
 
 # jp
     来自CF中转IP发布
 
 #https://bestcf.pages.dev/tiancheng/all.txt?port=443
+
 #https://bestcf.pages.dev/wetest/ipv4.txt
+
 #https://bestcf.pages.dev/lzj/all.txt
+
 #https://raw.githubusercontent.com/cc1nt/ip/main/tw1.txt
+
 #https://raw.githubusercontent.com/cc1nt/ip/main/jp2.txt#jp2
