@@ -1,4 +1,4 @@
-https://github.com/cc1nt/ip/blob/main/tw1.txt
+https://raw.githubusercontent.com/cc1nt/ip/main/tw1.txt
 
 # 1.通过fofa搜索ip
 
@@ -28,6 +28,7 @@ https://github.com/cc1nt/ip/blob/main/tw1.txt
 9	162.159.39.89	NRT	东京	45.04	16.1	443	地区测速
 10	108.162.198.157	NRT	东京	41.95	13.53	443	地区测速
 
-103.61.139.196
+
 git config --global http.proxy http://127.0.0.1:10808
+
 git config --global https.proxy http://127.0.0.1:10808
