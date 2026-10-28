@@ -16,4 +16,4 @@ https://raw.githubusercontent.com/cc1nt/ip/main/tw1.txt
 # jp1
     2026年10月28日21:16:18 日本原生运营商
     60.130.209.253
-    ![原身牛逼](60.130.209.253.png)
+![原身牛逼](jp1.png)
