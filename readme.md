@@ -28,3 +28,4 @@ https://raw.githubusercontent.com/cc1nt/ip/main/jp2.txt#jp2
 ## **日本风控偏低**（原生 ISP / 老牌本土运营商）
 - 2914|4713|2514|2516|17676|4694|2497|2518|4685|9605|2527|17511|7679|10010|18126|9824|4725|10013|9595|2519|2510     
 - country="JP" && server="cloudflare" && port="443" && status_code="403" && (asn="2914"||asn="4713"||asn="2516"||asn="17676"||asn="2497"||asn="2518"||asn="2514"||asn="4685"||asn="9605") && is_honeypot=false
+- 可以直接问AI
