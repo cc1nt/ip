@@ -8,7 +8,8 @@
     来自日本原生运营商，IP稀少，一个月只有三四个
 ## **CF中转IP发布** jp 	🔥
     来自CF中转IP发布，这里的IP非常多，而且基本有效，挑选其中延时低的
-    https://zip.cm.edu.kg
+    https://zip.cm.edu.kg   
+    https://zip.cm.edu.kg/all.txt   
     最推荐这个，基本覆盖了fofa的搜索结果 ✅ 
     拿到文件后，直接使用，无须自行测试连通性，用AI筛选下风控低的，导入客户端，在客户端里找延时低的    
 ## ProxyIP.JP.CMLiussss.net
@@ -33,4 +34,9 @@ https://raw.githubusercontent.com/cc1nt/ip/main/jp2.txt#jp2
     So-net / OPTAGE / QTnet / TOKAI / Chubu / JCOM / ZAQ / ODN / FreeBit / NTT-ME / INFOWEB     
 # 更新
 2026年10月29日11:46:25  新增jp0,从池子里筛选风控度低的IP    
+https://raw.githubusercontent.com/cc1nt/ip/main/jp/2053.txt:2053    
+https://raw.githubusercontent.com/cc1nt/ip/main/jp/2083.txt:2083    
+https://raw.githubusercontent.com/cc1nt/ip/main/jp/2087.txt:2087    
+https://raw.githubusercontent.com/cc1nt/ip/main/jp/2096.txt:2096    
+https://raw.githubusercontent.com/cc1nt/ip/main/jp/8443.txt:8443    
 ![中转](pic/jp2.png)
